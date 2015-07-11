@@ -34,3 +34,9 @@ RxJava resources
 
  Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
  [JakeWharton/u2020](https://github.com/JakeWharton/u2020)
+ 
+ 一个使用Retrofit+RxJava+MVP的app
+ [Avengers](https://github.com/saulmm/Avengers)
+ 
+ Android中使用Rx的一种架构
+ [rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
