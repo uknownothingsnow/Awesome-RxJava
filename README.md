@@ -2,29 +2,30 @@
 RxJava resources
 
 ## Blog
- 这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路
 
- [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
+ * [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174)，非常棒的讲解响应式编程的文章。
 
- [深入浅出RxJava（一：基础篇）](http://blog.csdn.net/lzyzsd/article/details/41833541)
+ * 这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 
- [深入浅出RxJava(二：操作符)](http://blog.csdn.net/lzyzsd/article/details/44094895)
+ * [深入浅出RxJava（一：基础篇）](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
- [深入浅出RxJava三--响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)
+ * [深入浅出RxJava(二：操作符)](http://blog.csdn.net/lzyzsd/article/details/44094895)
 
- [深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)
+ * [深入浅出RxJava三--响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)
+
+ * [深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)
 
  开发者前线翻译的一系列很赞的教程
 
- [使用RxJava从多个数据源中加载数据](http://www.devtf.cn/?p=764)
+ * [使用RxJava从多个数据源中加载数据](http://www.devtf.cn/?p=764)
 
- [使用RxJava.Observable取代AsyncTask和AsyncTaskLoader](http://www.devtf.cn/?p=114)
+ * [使用RxJava.Observable取代AsyncTask和AsyncTaskLoader](http://www.devtf.cn/?p=114)
 
- [当复仇者联盟遇上Dragger2、RxJava和Retrofit的巧妙结合](http://www.devtf.cn/?p=565)
+ * [当复仇者联盟遇上Dragger2、RxJava和Retrofit的巧妙结合](http://www.devtf.cn/?p=565)
 
- [结合RxJava使用SQLite](http://www.devtf.cn/?p=734)
+ * [结合RxJava使用SQLite](http://www.devtf.cn/?p=734)
 
- [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
+ * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
 
 ## App
 
