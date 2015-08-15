@@ -26,6 +26,9 @@ RxJava resources
  * [结合RxJava使用SQLite](http://www.devtf.cn/?p=734)
 
  * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
+ 
+ 一篇不错的介绍操作符的，[地址](http://blog.csdn.net/job_hesc/article/details/46242117) 
+ 
 
 ## App
 
