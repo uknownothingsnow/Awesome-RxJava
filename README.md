@@ -29,7 +29,14 @@ RxJava resources
  
  一篇不错的介绍操作符的，[地址](http://blog.csdn.net/job_hesc/article/details/46242117) 
  
+ 翻译 [Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
 
+ 翻译 [RxJava Observable tranformation: concatMap() vs flatMap()](http://www.jianshu.com/p/6d16805537ef)
+ 
+ 翻译 [Loading data from multiple sources with RxJava](http://www.jianshu.com/p/be084df924dc)
+ 
+ 翻译 [Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
+ 
 ## App
 
  简介：Android application that loads gifs via gfycat for efficiency's sake
