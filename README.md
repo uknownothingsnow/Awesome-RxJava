@@ -37,6 +37,12 @@ RxJava resources
  
  翻译 [Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
  
+   
+## test 
+ 
+ 
+ * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
+  
 ## App
 
  简介：Android application that loads gifs via gfycat for efficiency's sake
