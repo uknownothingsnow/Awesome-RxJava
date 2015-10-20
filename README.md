@@ -37,6 +37,8 @@ RxJava resources
  
  翻译 [Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
  
+ * 扔物线的文章 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) 讲解非常详细
+ 
 ## App
 
  简介：Android application that loads gifs via gfycat for efficiency's sake
