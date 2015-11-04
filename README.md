@@ -37,12 +37,12 @@ RxJava resources
  
  翻译 [Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
  
-   
+ * 扔物线的文章 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) 讲解非常详细
+ 
 ## test 
- 
- 
- * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
-  
+
+* [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
+
 ## App
 
  简介：Android application that loads gifs via gfycat for efficiency's sake
@@ -57,3 +57,10 @@ RxJava resources
  
  Android中使用Rx的一种架构
  [rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
+ 
+ RxJava例子
+ [learnrxjava](https://github.com/jhusain/learnrxjava)
+ 
+## stackoverflow
+ 
+ [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
