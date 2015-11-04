@@ -53,3 +53,10 @@ RxJava resources
  
  Android中使用Rx的一种架构
  [rx-android-architecture](https://github.com/tehmou/rx-android-architecture)
+ 
+ RxJava例子
+ [learnrxjava](https://github.com/jhusain/learnrxjava)
+ 
+## stackoverflow
+ 
+ [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
