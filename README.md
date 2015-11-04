@@ -39,6 +39,10 @@ RxJava resources
  
  * 扔物线的文章 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) 讲解非常详细
  
+## test 
+
+* [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
+
 ## App
 
  简介：Android application that loads gifs via gfycat for efficiency's sake
