@@ -13,6 +13,8 @@ RxJava resources
  * [深入浅出RxJava三--响应式的好处](http://blog.csdn.net/lzyzsd/article/details/44891933)
 
  * [深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)
+ 
+ * [如何升级到RxAndroid1.0](http://blog.csdn.net/lzyzsd/article/details/49248235)，适合使用Rx 0.x版本的用户升级的时候参考
 
  开发者前线翻译的一系列很赞的教程
  
