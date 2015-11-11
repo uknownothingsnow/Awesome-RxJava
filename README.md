@@ -2,8 +2,7 @@
 RxJava resources
 
 ## Blog
-
- * [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174)，非常棒的讲解响应式编程的文章。
+ * * 强烈推荐 * 扔物线的文章 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) 讲解非常详细
 
  * 这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323)
 
@@ -16,6 +15,8 @@ RxJava resources
  * [深入浅出RxJava四-在Android中使用响应式编程](http://blog.csdn.net/lzyzsd/article/details/45033611)
 
  开发者前线翻译的一系列很赞的教程
+ 
+ * [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174)，非常棒的讲解响应式编程的文章。
 
  * [使用RxJava从多个数据源中加载数据](http://www.devtf.cn/?p=764)
 
@@ -36,8 +37,6 @@ RxJava resources
  翻译 [Loading data from multiple sources with RxJava](http://www.jianshu.com/p/be084df924dc)
  
  翻译 [Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
- 
- * 扔物线的文章 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) 讲解非常详细
  
 ## test 
 
