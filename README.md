@@ -30,7 +30,7 @@ RxJava resources
 
  * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
  
- 一篇不错的介绍操作符的，[地址](http://blog.csdn.net/job_hesc/article/details/46242117) 
+ 一些不错的介绍操作符的，[地址1](http://blog.csdn.net/job_hesc/article/details/46242117)  || [地址2](http://blog.chinaunix.net/uid/20771867.html)
  
  翻译 [Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
 
