@@ -58,8 +58,21 @@ RxJava resources
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) -Android中使用Rx的一种架构
  
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
+
+## Library
  
+ * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
+
+ * [RxAndroid](https://github.com/trello/RxLifecycle) -RxJava的Android拓展
  
+ * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
+ 
+ * [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
+
+ * [storio](https://github.com/pushtorefresh/storio) -支持RxJava的数据库
+
+ * [retrofit](https://github.com/square/retrofit) -支持RxJava的网络请求库
+
 ## Stackoverflow
  
  [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
