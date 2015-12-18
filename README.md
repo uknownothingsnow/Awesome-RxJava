@@ -31,8 +31,8 @@ RxJava resources
 * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
  
 ###  一些不错的介绍操作符的文章
- * [行云流水的博客](http://blog.csdn.net/job_hesc/article/details/46242117) 
- * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
+ * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
+ * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
  
 ###  一些不错的翻译文章
 * [【译】Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
