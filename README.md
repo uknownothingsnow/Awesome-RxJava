@@ -42,6 +42,8 @@ RxJava resources
 * [【译】Loading data from multiple sources with RxJava](http://www.jianshu.com/p/be084df924dc)
  
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
+
+* [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
  
 ## Test 
 
