@@ -47,6 +47,8 @@ RxJava resources
 
 * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
 
+* [Unit Testing RxJava Observables](https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329)
+
 ## App
 
 * [android-gfycat](https://github.com/dlew/android-gfycat) -Android application that loads gifs via gfycat for efficiency's sake
