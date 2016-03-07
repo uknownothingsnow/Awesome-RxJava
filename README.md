@@ -33,7 +33,7 @@ RxJava resources
 ###  一些不错的介绍操作符的文章
  * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
  
- * [RxMarbles]([http://rxmarbles.com/](http://rxmarbles.com/))-Interactive diagrams of Rx Observables
+ * [RxMarbles](http://rxmarbles.com/](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
  
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
  
