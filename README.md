@@ -32,6 +32,9 @@ RxJava resources
  
 ###  一些不错的介绍操作符的文章
  * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
+ 
+ * [RxMarbles]([http://rxmarbles.com/](http://rxmarbles.com/))-Interactive diagrams of Rx Observables
+ 
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
  
 ###  一些不错的翻译文章
@@ -59,6 +62,12 @@ RxJava resources
  
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
 
+* [MovieGuide]([https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide))-An Android app that showcases the MVP pattern and RxJava
+
+* [RxWeather]([https://github.com/SmartDengg/RxWeather](https://github.com/SmartDengg/RxWeather))
+-Architecting Android with RxJava
+
+* [RxBlur]([https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur))-用RxJava处理和操作高斯模糊效果的简单用例。
 ## Library
  
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
