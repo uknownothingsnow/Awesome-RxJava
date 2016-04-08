@@ -69,6 +69,10 @@ RxJava resources
 
 * [Avengers](https://github.com/saulmm/Avengers) - 一个使用Retrofit+RxJava+MVP的app
 
+* [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
+
+* [AppPlus](https://github.com/maoruibin/AppPlus) - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
+
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) -Android中使用Rx的一种架构
  
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
