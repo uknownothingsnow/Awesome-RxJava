@@ -47,6 +47,13 @@ RxJava resources
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
 
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
+
+###  一些原理分析的文章
+* [彻底搞懂 RxJava — 基础篇](http://diordna.sinaapp.com/?p=896)
+
+* [彻底搞懂 RxJava — 中级篇](http://diordna.sinaapp.com/?p=910)
+
+* [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
  
 ## Test 
 
