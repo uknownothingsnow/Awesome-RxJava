@@ -16,6 +16,8 @@ RxJava resources
 
 * [如何升级到RxAndroid1.0](http://blog.csdn.net/lzyzsd/article/details/49248235) -适合使用Rx 0.x版本的用户升级的时候参考
 
+* [可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
+
 ### 开发者前线翻译的一系列很赞的教程
 
 *  [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174) -非常棒的讲解响应式编程的文章。
@@ -43,6 +45,7 @@ RxJava resources
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
  
 ###  一些不错的翻译文章
+
 * [【译】Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
 
 * [【译】RxJava Observable tranformation: concatMap() vs flatMap()](http://www.jianshu.com/p/6d16805537ef)
@@ -59,6 +62,8 @@ RxJava resources
 * [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
  
 ## Test 
+* [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
+
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
 
 * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
@@ -116,11 +121,13 @@ RxJava resources
 
  * [xBus](https://github.com/mcxiaoke/xBus) -简洁的EventBus实现
 
+
+## Stackoverflow
+ 
+* [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
+
 ## Video
 
 * [droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo&list=PLAY9OtteiTj04IdJDW7KV1cy843reyjvT)
+
 * [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ&feature=youtu.be)
-
-## Stackoverflow
-
- [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
