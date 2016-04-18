@@ -35,7 +35,9 @@ RxJava resources
 ###  一些不错的介绍操作符的文章
 
  * [行云流水的博客](http://blog.csdn.net/job_hesc/article/details/46242117)
+
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
+
  * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
  
  * [RxMarbles](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
@@ -60,6 +62,7 @@ RxJava resources
 * [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
  
 ## Test 
+* [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
 
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
 
@@ -81,7 +84,13 @@ RxJava resources
 
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) -Android中使用Rx的一种架构
 
+* [android-boilerplate](https://github.com/ribot/android-boilerplate) -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
+
+## Example
+
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
+
+* [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) -RxJava实例入门
 
 * [MovieGuide]([https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide))-An Android app that showcases the MVP pattern and RxJava
 
@@ -89,11 +98,14 @@ RxJava resources
 -Architecting Android with RxJava
 
 * [RxBlur]([https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur))-用RxJava处理和操作高斯模糊效果的简单用例。
+
 ## Library
 
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
 
  * [RxAndroid](https://github.com/trello/RxLifecycle) -RxJava的Android拓展
+
+ * [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
  
  * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
 
@@ -103,6 +115,13 @@ RxJava resources
 
  * [retrofit](https://github.com/square/retrofit) -支持RxJava的网络请求库
 
+ * [sqlbrite](https://github.com/square/sqlbrite) -支持RxJava的sqlite数据库
+
+ * [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
+
+ * [xBus](https://github.com/mcxiaoke/xBus) -简洁的EventBus实现
+
+
 ## Stackoverflow
  
 * [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
@@ -110,4 +129,5 @@ RxJava resources
 ## Video
 
 * [droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo&list=PLAY9OtteiTj04IdJDW7KV1cy843reyjvT)
+
 * [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ&feature=youtu.be)
