@@ -31,9 +31,17 @@ RxJava resources
 * [比钢铁侠反应更灵敏-RxJava](http://www.devtf.cn/?p=770)
 
 ###  一些不错的介绍操作符的文章
+
  * [行云流水的博客](http://blog.csdn.net/job_hesc/article/details/46242117)
+
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
 
+ * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
+ 
+ * [RxMarbles](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
+ 
+ * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
+ 
 ###  一些不错的翻译文章
 * [【译】Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
 
@@ -43,9 +51,19 @@ RxJava resources
 
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e)
 
-## Test
+###  一些原理分析的文章
+* [彻底搞懂 RxJava — 基础篇](http://diordna.sinaapp.com/?p=896)
+
+* [彻底搞懂 RxJava — 中级篇](http://diordna.sinaapp.com/?p=910)
+
+* [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
+ 
+## Test 
+* [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
 
 * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
+
+* [Unit Testing RxJava Observables](https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329)
 
 ## App
 
@@ -54,6 +72,10 @@ RxJava resources
 * [JakeWharton/u2020](https://github.com/JakeWharton/u2020) -Jake大神的项目，里面有RxJava和Retrofit一起使用的例子
 
 * [Avengers](https://github.com/saulmm/Avengers) - 一个使用Retrofit+RxJava+MVP的app
+
+* [TranslateApp](https://github.com/maoruibin/TranslateApp) - 一个使用 MVP+Dagger2+RxJava+Retrofit的实现手机端『划词翻译』功能的App - 咕咚翻译
+
+* [AppPlus](https://github.com/maoruibin/AppPlus) - 一个可以用于传送Apk文件，提取APK文件等的工具软件。
 
 * [rx-android-architecture](https://github.com/tehmou/rx-android-architecture) -Android中使用Rx的一种架构
 
@@ -65,12 +87,21 @@ RxJava resources
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) -RxJava实例入门
 
+* [MovieGuide]([https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide))-An Android app that showcases the MVP pattern and RxJava
+
+* [RxWeather]([https://github.com/SmartDengg/RxWeather](https://github.com/SmartDengg/RxWeather))
+-Architecting Android with RxJava
+
+* [RxBlur]([https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur))-用RxJava处理和操作高斯模糊效果的简单用例。
+
 ## Library
 
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
 
  * [RxAndroid](https://github.com/trello/RxLifecycle) -RxJava的Android拓展
 
+ * [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
+ 
  * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
 
  * [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
@@ -84,6 +115,11 @@ RxJava resources
  * [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
 
  * [xBus](https://github.com/mcxiaoke/xBus) -简洁的EventBus实现
+
+## Video
+
+* [droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo&list=PLAY9OtteiTj04IdJDW7KV1cy843reyjvT)
+* [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ&feature=youtu.be)
 
 ## Stackoverflow
 
