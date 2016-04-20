@@ -86,6 +86,8 @@ RxJava resources
 
 * [android-boilerplate](https://github.com/ribot/android-boilerplate) -使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例
 
+* [RxJavaApp](https://github.com/jiang111/RxJavaApp) -用于学习RxJava操作符的APP
+
 ## Example
 
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
