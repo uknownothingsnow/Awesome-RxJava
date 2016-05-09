@@ -121,8 +121,6 @@ RxJava resources
 
  * [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
 
- * [xBus](https://github.com/mcxiaoke/xBus) -简洁的EventBus实现
-
 
 ## Stackoverflow
  
