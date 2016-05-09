@@ -38,12 +38,12 @@ RxJava resources
 
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.chinaunix.net/uid/20771867.html)
 
- * [木水川的博客](http://mushuichuan.com/tags/RxJava/) 
- 
+ * [木水川的博客](http://mushuichuan.com/tags/RxJava/)
+
  * [RxMarbles](http://rxmarbles.com/)-Interactive diagrams of Rx Observables
- 
+
  * [Android RxJava使用介绍（二） RxJava的操作符](http://blog.csdn.net/job_hesc/article/details/46242117)
- 
+
 ###  一些不错的翻译文章
 
 * [【译】Deferring Observable code until subscription in RxJava](http://www.jianshu.com/p/c83996149f5b)
@@ -60,8 +60,8 @@ RxJava resources
 * [彻底搞懂 RxJava — 中级篇](http://diordna.sinaapp.com/?p=910)
 
 * [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
- 
-## Test 
+
+## Test
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
 
 * [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
@@ -101,6 +101,8 @@ RxJava resources
 
 * [RxBlur]([https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur))-用RxJava处理和操作高斯模糊效果的简单用例。
 
+* [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)-Learning RxJava for Android by example
+
 ## Library
 
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
@@ -108,7 +110,7 @@ RxJava resources
  * [RxAndroid](https://github.com/trello/RxLifecycle) -RxJava的Android拓展
 
  * [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
- 
+
  * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
 
  * [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
@@ -123,7 +125,7 @@ RxJava resources
 
 
 ## Stackoverflow
- 
+
 * [When should one use RxJava Observable and when simple Callback on Android?](http://stackoverflow.com/questions/21890338/when-should-one-use-rxjava-observable-and-when-simple-callback-on-android)
 
 ## Video
