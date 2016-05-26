@@ -94,12 +94,12 @@ RxJava resources
 
 * [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) -RxJava实例入门
 
-* [MovieGuide]([https://github.com/esoxjem/MovieGuide](https://github.com/esoxjem/MovieGuide))-An Android app that showcases the MVP pattern and RxJava
+* [MovieGuide](https://github.com/esoxjem/MovieGuide)-An Android app that showcases the MVP pattern and RxJava
 
-* [RxWeather]([https://github.com/SmartDengg/RxWeather](https://github.com/SmartDengg/RxWeather))
+* [RxWeather](https://github.com/SmartDengg/RxWeather)
 -Architecting Android with RxJava
 
-* [RxBlur]([https://github.com/SmartDengg/RxBlur](https://github.com/SmartDengg/RxBlur))-用RxJava处理和操作高斯模糊效果的简单用例。
+* [RxBlur](https://github.com/SmartDengg/RxBlur)-用RxJava处理和操作高斯模糊效果的简单用例。
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)-Learning RxJava for Android by example
 
