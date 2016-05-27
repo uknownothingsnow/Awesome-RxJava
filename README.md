@@ -103,6 +103,8 @@ RxJava resources
 
 * [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)-Learning RxJava for Android by example
 
+* [FlowImageLoader](https://github.com/walfud/FlowImageLoader)-使用 RxJava 实现图片异步加载/缓存框架. 代码优雅, 整洁. 非常适合借鉴学习.
+
 ## Library
 
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
