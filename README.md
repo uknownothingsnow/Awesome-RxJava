@@ -107,8 +107,6 @@ RxJava resources
 
  * [rx-preferences](https://github.com/f2prateek/rx-preferences) -使SharedPreferences支持RxJava
 
- * [RxAndroid](https://github.com/trello/RxLifecycle) -RxJava的Android拓展
-
  * [RxAndroid](https://github.com/ReactiveX/RxAndroid) -RxJava的Android拓展
 
  * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
