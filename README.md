@@ -119,6 +119,10 @@ RxJava resources
  * [sqlbrite](https://github.com/square/sqlbrite) -支持RxJava的sqlite数据库
 
  * [RxPermissions](https://github.com/tbruyelle/RxPermissions) -RxJava实现的Android运行时权限控制
+ 
+ * [reark](https://github.com/reark/reark) -RxJava architecture library for Android
+ 
+ * [frodo](https://github.com/android10/frodo) -Android Library for Logging RxJava Observables and Subscribers.
 
 
 ## Stackoverflow
