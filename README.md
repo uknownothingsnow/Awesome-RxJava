@@ -62,7 +62,7 @@ RxJava resources
 * [彻底搞懂 RxJava — 高级篇](http://diordna.sinaapp.com/?p=912)
 
 ## 书籍
-* [【译】RxJava Essentials 中文翻译版](http://rxjava.yuxingxin.com/) -Ivan.Morgillo所写一书的中文翻译版本
+* [【译】RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN) -Ivan.Morgillo所写一书的中文翻译版本
 
 ## Test
 * [Unit Testing RxJava Observables and Subscriptions](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
