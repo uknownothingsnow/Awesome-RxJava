@@ -18,6 +18,21 @@ RxJava resources
 
 * [可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
 
+* [RxJava系列1(简介)](https://zhuanlan.zhihu.com/p/20687178)
+
+* [RxJava系列2(基本概念及使用介绍)](https://zhuanlan.zhihu.com/p/20687307)
+
+* [RxJava系列3(转换操作符)](https://zhuanlan.zhihu.com/p/21926591)
+
+* [RxJava系列4(过滤操作符)](https://zhuanlan.zhihu.com/p/21966621)
+
+* [RxJava系列5(组合操作符)](https://zhuanlan.zhihu.com/p/22039934)
+
+* [RxJava系列6(从微观角度解读RxJava源码)](https://zhuanlan.zhihu.com/p/22338235) 
+  
+* [RxJava系列7(最佳实践)](https://zhuanlan.zhihu.com/p/23108381)  
+
+
 ### 开发者前线翻译的一系列很赞的教程
 
 *  [那些年我们错过的响应式编程](http://www.devtf.cn/?p=174) -非常棒的讲解响应式编程的文章。
@@ -134,3 +149,5 @@ RxJava resources
 * [droidconDE 2015: Ivan Morgillo – Android reactive programming with Rxjava](https://www.youtube.com/watch?v=JCLZ55M2gVo&list=PLAY9OtteiTj04IdJDW7KV1cy843reyjvT)
 
 * [Common RxJava Mistakes](https://www.youtube.com/watch?v=QdmkXL7XikQ&feature=youtu.be)
+
+
