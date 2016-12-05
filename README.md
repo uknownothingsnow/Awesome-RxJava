@@ -111,6 +111,8 @@ RxJava resources
  * [RxLifecycle](https://github.com/trello/RxLifecycle) -帮助使用了RxJava的安卓应用控制生命周期
 
  * [RxBinding](https://github.com/JakeWharton/RxBinding) -安卓UI控件的RxJava绑定API
+ 
+ * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) -Google Play Service API wrapped in RxJava
 
  * [storio](https://github.com/pushtorefresh/storio) -支持RxJava的数据库
 
