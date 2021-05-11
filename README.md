@@ -102,6 +102,8 @@ RxJava resources
 
 * [RxJavaApp](https://github.com/jiang111/RxJavaApp) -用于学习RxJava操作符的APP
 
+*[Realm结合Rxjava的使用](https://realm.io/docs/java/latest/#rxjava) -Realm结合Rxjava的使用
+
 ## Example
 
 * [learnrxjava](https://github.com/jhusain/learnrxjava) -RxJava例子
