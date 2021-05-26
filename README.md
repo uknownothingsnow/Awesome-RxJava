@@ -4,7 +4,7 @@ RxJava resources
 ## Blog
 *  [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) -**强烈推荐** 扔物线的文章  讲解非常详细
 
-* [NotRxJava懒人专用指南](http://www.devtf.cn/?p=323) -这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路
+* [NotRxJava懒人专用指南](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-9/NotRxJava%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E6%8C%87%E5%8D%97.md) -这篇入门极力推荐，手把手，深入浅出教你实现一个简易的RxJava库，更好的理解RxJava的实现思路
 
 * [深入浅出RxJava（一：基础篇）](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
